@@ -13,7 +13,7 @@ The simulation involves an attacker trying to intrude a protected area represent
 - Calculation of tangent points and optimal intrusion point
 - Visualization of the protected circle, secondary circle, winning region, tangent paths, and positions of attacker and defender
 
-The program will prompted to enter the initial parameters for the simulation:
+The program will prompt to enter the initial parameters for the simulation:
 - Attacker position (x,y)
 - Defender position in degrees
 - Maximum attacker speed
